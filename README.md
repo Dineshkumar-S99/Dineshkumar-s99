@@ -4,8 +4,10 @@
 Am an EC graduate with a twist of Ex. Game Design. It took me more than one year to understand my true call is DevOps and Cloud. with such realization what I did, I **taught myself How to Code, Networking, DevOps Concepts and Tools, and Cloud Computing in Azure**. currently **certified in Azure fundamentals and soon will be in Azure Administration** too!
 
 After Undergoing Multiple courses and Labs from KodeKloud and Microsoft Learn, currently **looking to start my Career as DevOps Engineer**.my Skill sets include
-<p>👉 Programming/Scripting in Python</p>
-<p>👉 SCM using Git/GitHub</p>
+
+<img align="right" src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966' width="50%">
+<p>👉 Programming/Scripting: Python</p>
+<p>👉 SCM: Git/GitHub</p>
 <p>👉 CI/CD: Jenkins</p>
 <p>👉 Configuration: Ansible</p>
 <p>👉 Deployment: Docker</p>

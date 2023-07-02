@@ -64,7 +64,7 @@ After Undergoing Multiple courses and Labs from KodeKloud and Microsoft Learn, c
 #### am Very Much Happy to connect🤝😄
 <h2></h2>
 <a href= "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=todineshkumar@outlook.com"> <img width ='50px' src ='https://www.svgrepo.com/show/444193/brand-google-gmail.svg'> </a>
-<!-- <a href= "https://www.linkedin.com/in/dineshkumar-s99/"> <img width ='50px' src ='https://www.svgrepo.com/show/354000/linkedin-icon.svg'> </a> -->
+<a href= "https://www.linkedin.com/in/dineshkumar-s99/"> <img width ='50px' src ='https://www.svgrepo.com/show/354000/linkedin-icon.svg'> </a>
 <a href= "https://instagram.com/dinesh_sanjay_1866?igshid=MzNlNGNkZWQ4Mg=="> <img width ='50px' src ='https://www.svgrepo.com/show/303154/instagram-2016-logo.svg'> </a>
 <a href= "https://www.snapchat.com/add/dinesh-1866?share_id=tXwSE1J2KU4&locale=en-IN"> <img width ='50px' src ='https://www.svgrepo.com/show/177117/snapchat-social-media.svg'> </a>
 
